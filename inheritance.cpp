@@ -1,3 +1,4 @@
+//inheritance in c++
 #include<iostream>
 using namespace std;
 class parent{
